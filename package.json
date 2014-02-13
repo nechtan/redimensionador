@@ -1,0 +1,15 @@
+{
+  "name": "cabare",
+  "version": "0.0.0",
+  "description": "Servidor para testes de redimensionamento de imagens.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cabaré (http://caba.re)",
+  "license": "MIT",
+  "dependencies": {
+    "imagemagick-native": "~0.2.9",
+    "express": "~3.4.8"
+  }
+}
