@@ -3,8 +3,7 @@
 
 Usando imagemagick-native assíncronamente com o modulo async;
 
-
-**Instalando: **
+*Instalando:*
 
 ```bash
 $ make osx
